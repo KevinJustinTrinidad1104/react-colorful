@@ -1,0 +1,22 @@
+- generic [active] [ref=f3e1]:
+  - heading "Prevent accidental color changes on right-click" [level=1] [ref=f3e2]
+  - paragraph [ref=f3e3]: "Right-click or middle-click each picker. Before: the color changes. After: the color stays unchanged. Left-click and drag still work."
+  - main [ref=f3e4]:
+    - generic [ref=f3e5]:
+      - heading "Before — original code" [level=2] [ref=f3e6]
+      - generic [ref=f3e7]:
+        - generic [ref=f3e8]:
+          - slider "Color" [ref=f3e10]
+          - slider "Hue" [ref=f3e13]
+          - slider "Alpha" [ref=f3e16]
+        - generic [ref=f3e18]: "{\"r\":255,\"g\":0,\"b\":0,\"a\":1}"
+        - button "Reset" [ref=f3e19]
+    - generic [ref=f3e20]:
+      - heading "After — fixed code" [level=2] [ref=f3e21]
+      - generic [ref=f3e22]:
+        - generic [ref=f3e23]:
+          - slider "Color" [ref=f3e25]
+          - slider "Hue" [ref=f3e28]
+          - slider "Alpha" [ref=f3e31]
+        - generic [ref=f3e33]: "{\"r\":255,\"g\":0,\"b\":0,\"a\":1}"
+        - button "Reset" [ref=f3e34]

@@ -1,0 +1,94 @@
+[     665ms] [ERROR] Access to script at 'https://polyfill.io/v3/polyfill.min.js?features=Object.assign%2CArray.prototype.fill' from origin 'http://localhost:1234' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:1234/:0
+[     665ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://polyfill.io/v3/polyfill.min.js?features=Object.assign%2CArray.prototype.fill:0
+[     708ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:1234/src.f69400ca.js:29512
+[  101365ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:1234/recording-before.js:21093
+[  182366ms] [LOG] 🎨 {r: 115, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-before.js:23448
+[  182376ms] [LOG] 🎨 {r: 115, g: 21, b: 139, a: 1} end @ http://localhost:1234/recording-before.js:23452
+[  187510ms] [LOG] 🎨 {r: 117, g: 73, b: 128, a: 1} @ http://localhost:1234/recording-before.js:23448
+[  187513ms] [LOG] 🎨 {r: 117, g: 73, b: 128, a: 1} end @ http://localhost:1234/recording-before.js:23452
+[  192578ms] [LOG] 🎨 {r: 73, g: 128, b: 79, a: 1} @ http://localhost:1234/recording-before.js:23448
+[  192582ms] [LOG] 🎨 {r: 73, g: 128, b: 79, a: 1} end @ http://localhost:1234/recording-before.js:23452
+[  230746ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:1234/recording-after.js:21093
+[  353967ms] [LOG] 🎨 {r: 21, g: 139, b: 33, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  353982ms] [LOG] 🎨 {r: 21, g: 139, b: 36, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354034ms] [LOG] 🎨 {r: 21, g: 139, b: 43, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354050ms] [LOG] 🎨 {r: 21, g: 139, b: 47, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354067ms] [LOG] 🎨 {r: 21, g: 139, b: 54, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354083ms] [LOG] 🎨 {r: 21, g: 139, b: 58, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354101ms] [LOG] 🎨 {r: 21, g: 139, b: 65, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354117ms] [LOG] 🎨 {r: 21, g: 139, b: 72, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354134ms] [LOG] 🎨 {r: 21, g: 139, b: 75, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354149ms] [LOG] 🎨 {r: 21, g: 139, b: 82, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354167ms] [LOG] 🎨 {r: 21, g: 139, b: 86, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354184ms] [LOG] 🎨 {r: 21, g: 139, b: 93, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354200ms] [LOG] 🎨 {r: 21, g: 139, b: 97, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354217ms] [LOG] 🎨 {r: 21, g: 139, b: 104, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354234ms] [LOG] 🎨 {r: 21, g: 139, b: 111, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354250ms] [LOG] 🎨 {r: 21, g: 139, b: 114, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354267ms] [LOG] 🎨 {r: 21, g: 139, b: 121, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354284ms] [LOG] 🎨 {r: 21, g: 139, b: 125, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354300ms] [LOG] 🎨 {r: 21, g: 139, b: 132, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354317ms] [LOG] 🎨 {r: 21, g: 139, b: 135, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354334ms] [LOG] 🎨 {r: 21, g: 135, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354350ms] [LOG] 🎨 {r: 21, g: 128, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354367ms] [LOG] 🎨 {r: 21, g: 125, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354384ms] [LOG] 🎨 {r: 21, g: 118, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354400ms] [LOG] 🎨 {r: 21, g: 114, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354417ms] [LOG] 🎨 {r: 21, g: 107, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354433ms] [LOG] 🎨 {r: 21, g: 104, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354450ms] [LOG] 🎨 {r: 21, g: 97, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354467ms] [LOG] 🎨 {r: 21, g: 89, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354484ms] [LOG] 🎨 {r: 21, g: 86, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354500ms] [LOG] 🎨 {r: 21, g: 79, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354520ms] [LOG] 🎨 {r: 21, g: 75, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354534ms] [LOG] 🎨 {r: 21, g: 68, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354550ms] [LOG] 🎨 {r: 21, g: 65, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354567ms] [LOG] 🎨 {r: 21, g: 58, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354584ms] [LOG] 🎨 {r: 21, g: 50, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354601ms] [LOG] 🎨 {r: 21, g: 47, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354617ms] [LOG] 🎨 {r: 21, g: 40, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354634ms] [LOG] 🎨 {r: 21, g: 36, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354651ms] [LOG] 🎨 {r: 21, g: 29, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354668ms] [LOG] 🎨 {r: 21, g: 26, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354684ms] [LOG] 🎨 {r: 23, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354700ms] [LOG] 🎨 {r: 30, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354717ms] [LOG] 🎨 {r: 34, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354734ms] [LOG] 🎨 {r: 41, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354750ms] [LOG] 🎨 {r: 45, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354767ms] [LOG] 🎨 {r: 52, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354784ms] [LOG] 🎨 {r: 55, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354800ms] [LOG] 🎨 {r: 62, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354817ms] [LOG] 🎨 {r: 69, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354834ms] [LOG] 🎨 {r: 73, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354850ms] [LOG] 🎨 {r: 80, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354867ms] [LOG] 🎨 {r: 84, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354884ms] [LOG] 🎨 {r: 91, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354901ms] [LOG] 🎨 {r: 94, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354917ms] [LOG] 🎨 {r: 101, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354934ms] [LOG] 🎨 {r: 108, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354951ms] [LOG] 🎨 {r: 112, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354967ms] [LOG] 🎨 {r: 119, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  354984ms] [LOG] 🎨 {r: 122, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355001ms] [LOG] 🎨 {r: 130, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355017ms] [LOG] 🎨 {r: 133, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355034ms] [LOG] 🎨 {r: 139, g: 21, b: 138, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355050ms] [LOG] 🎨 {r: 139, g: 21, b: 131, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355067ms] [LOG] 🎨 {r: 139, g: 21, b: 127, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355084ms] [LOG] 🎨 {r: 139, g: 21, b: 120, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355100ms] [LOG] 🎨 {r: 139, g: 21, b: 117, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355117ms] [LOG] 🎨 {r: 139, g: 21, b: 110, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355134ms] [LOG] 🎨 {r: 139, g: 21, b: 106, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355151ms] [LOG] 🎨 {r: 139, g: 21, b: 99, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355167ms] [LOG] 🎨 {r: 139, g: 21, b: 92, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  355171ms] [LOG] 🎨 {r: 139, g: 21, b: 92, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  890419ms] [LOG] 🎨 {r: 21, g: 132, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  890886ms] [LOG] 🎨 {r: 21, g: 132, b: 139, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  891136ms] [LOG] 🎨 {r: 130, g: 139, b: 21, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  891251ms] [LOG] 🎨 {r: 130, g: 139, b: 21, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  891840ms] [LOG] 🎨 {r: 21, g: 22, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  891952ms] [LOG] 🎨 {r: 21, g: 22, b: 139, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  892951ms] [LOG] 🎨 {r: 41, g: 139, b: 21, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  893133ms] [LOG] 🎨 {r: 41, g: 139, b: 21, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  893956ms] [LOG] 🎨 {r: 98, g: 21, b: 139, a: 1} @ http://localhost:1234/recording-after.js:23444
+[  894084ms] [LOG] 🎨 {r: 98, g: 21, b: 139, a: 1} end @ http://localhost:1234/recording-after.js:23448
+[  950690ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:1234/recording-after.js:21093
